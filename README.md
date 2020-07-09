@@ -1,16 +1,19 @@
-### Hi there 👋
+![Profile header](./header.png)
 
-<!--
-**yoannfleurydev/yoannfleurydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome
 
-Here are some ideas to get you started:
+## 👨‍💻 My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [gitweb](https://github.com/yoannfleurydev/gitweb) - a command line to open the remote repository
+- [GitHub Notifications](https://github.com/yoannfleurydev/GitHub-Notifications) - a macOS application to show if you have notifications
+- [useDisclosure](https://github.com/yoannfleurydev/useDisclosure) - a custom React Hook to handle open/close/toggle of a state
+- [...](https://github.com/yoannfleurydev?tab=repositories&type=source)
+
+## 💪 Support my work
+
+- [paypal](https://www.paypal.me/yoannfleurydev)
+- [ko-fi](https://ko-fi.com/yoannfleurydev)
+
+## 📫 Reach me
+
+- [twitter](https://twitter.com/yoannfleurydev)
