@@ -1,4 +1,4 @@
-![Profile header](./header.png)
+![Profile header](https://github.com/yoannfleurydev/yoannfleurydev/raw/master/header.png)
 
 # 👋 Welcome
 
